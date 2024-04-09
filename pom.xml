@@ -21,8 +21,8 @@
   <dependencies>
     <dependency>
       <groupId>org.daisy.pipeline</groupId>
-      <artifactId>framework-core</artifactId>
-      <version>8.0.0</version>
+      <artifactId>assembly</artifactId>
+      <version>1.14.17-p1</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
