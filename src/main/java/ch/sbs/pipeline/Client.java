@@ -5,7 +5,7 @@ import java.util.ServiceLoader;
 import org.daisy.pipeline.script.ScriptRegistry;
 import org.daisy.pipeline.script.ScriptService;
 
-public class App 
+public class Client
 {
     private static ServiceLoader<ScriptRegistry> scriptRegistryLoader = ServiceLoader.load(ScriptRegistry.class);
 
